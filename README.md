@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
