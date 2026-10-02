@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
+| [2942-find-words-containing-character](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Tree
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [2942-find-words-containing-character](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
