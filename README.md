@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [1470-shuffle-the-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/1470-shuffle-the-array) |
 | [2942-find-words-containing-character](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
 |  |
