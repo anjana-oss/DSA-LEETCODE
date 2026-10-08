@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/1470-shuffle-the-array) |
 | [2942-find-words-containing-character](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3046-split-the-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/3046-split-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [3046-split-the-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
