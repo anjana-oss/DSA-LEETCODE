@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0845-longest-mountain-in-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/1470-shuffle-the-array) |
 | [2942-find-words-containing-character](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -60,5 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
