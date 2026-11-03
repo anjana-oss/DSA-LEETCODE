@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0845-longest-mountain-in-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0845-longest-mountain-in-array](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/anjana-oss/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
